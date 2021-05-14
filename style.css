@@ -73,13 +73,6 @@ ul {
   width: 60px;
   height: 30px;
 }
-
-.fa-instagram {
-  background: #881226;
-  color: white;
-  width: 60px;
-  height: 30px;
-}
 .icons {
   text-align: center;
   justify-content: space-evenly;
@@ -153,6 +146,9 @@ padding: right;
   #humour {
     text-align: center;
   }
+  #say {
+    text-align: center;
+  }
   #passions {
     text-align: center;
     color: white;
@@ -179,7 +175,7 @@ padding: right;
    height:60px; 
 }
 #page2{
-  background-image: url(images/pp.png);
+  background-image: url(images/pp.jpeg);
 }
 .ink {
    height:400px;
